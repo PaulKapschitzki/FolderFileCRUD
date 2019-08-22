@@ -1,0 +1,24 @@
+{
+  "name": "folderfilecrud",
+  "version": "1.0.0",
+  "description": "App with which to test out how to work with folders and files with ElectronJS",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^6.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulKapschitzki/FolderFileCRUD.git"
+  },
+  "author": "Paul Kapschitzki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulKapschitzki/FolderFileCRUD/issues"
+  },
+  "homepage": "https://github.com/PaulKapschitzki/FolderFileCRUD#readme"
+}
