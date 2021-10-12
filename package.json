@@ -4,7 +4,7 @@
   "description": "App with which to test out how to work with folders and files with ElectronJS",
   "main": "main.js",
   "dependencies": {
-    "electron": "^6.0.3"
+    "electron": "^11.5.0"
   },
   "devDependencies": {},
   "scripts": {
